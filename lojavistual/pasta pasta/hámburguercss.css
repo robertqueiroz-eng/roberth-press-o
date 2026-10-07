@@ -1,0 +1,23 @@
+header {
+    background-color:rgb(231, 170, 0);
+    color:rgb(255, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
+
+body { background-color: #e7daa0; color: #020101}
+
+nav a {
+    color:rgb(255, 38, 0);
+}
+
+nav a:hover {
+    color:rgb(131, 26, 0);
+    text-decoration: underline;
+}
+section {
+    background-color:rgb(231, 170, 0);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
